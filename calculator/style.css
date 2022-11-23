@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.container{
+    background-color: solid red;
+    border: thick solid #0000FF;
+    align-items: center;
+    width: 321px;
+}
+.button
+{
+    margin: 10px;
+    width: 28px;
+    border-radius: 10px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: solid red;
+    border: thick solid #c0161f;
+}
