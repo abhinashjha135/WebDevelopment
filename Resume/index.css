@@ -1,0 +1,40 @@
+.rightshift{
+    float: right;
+    
+}
+.name{
+    display: inline-block;
+    
+}
+.horizontalline{
+  margin-top: -16px;
+}
+.topmargin{
+    margin-top:17px;
+}
+.rightshifttopmargin{
+    float:right;
+    margin-top:-19px;
+}
+.educationsectioncontent{
+    margin-left: 7px;
+
+    margin-bottom:4px;
+
+}
+.adjustingpage{
+    margin-top: -10px;
+}
+.skillcontent{
+    margin-bottom:3px;
+
+}
+.Achivementssection{
+    margin-top:-16px;
+}
+.Projectsection{
+    margin-top:-16px;
+}
+.educationsection{
+    
+}
